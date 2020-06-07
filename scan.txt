@@ -1,0 +1,8 @@
+:::          Site  is Vulnerable     :::
+Url Name_______________ :::
+:::http://www.humor.co.il/category.php?id=61:::
+DataBase Name__________ :::
+(True, 'MySQL')
+Server Name____________ :::
+['Apache', 'PHP/5.3.29']
+::: ___________________ :::

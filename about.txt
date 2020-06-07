@@ -1,0 +1,21 @@
+
+
+
+Description    : An automation tool to scan for an SQL injection vulnerability.
+Date              : March 2019
+Compiler       : Python3
+Author         : Sandeep,Suraj,Ashish 
+System         : Win 7/vista/10 
+
+SQL-AUTO is an open source penetration testing tool that automates the process of detecting and exploiting.
+SQL injection flaws and taking over of database servers.
+It has powerful detection Engine ,and many features for an penetration tester.
+It aslo includes Admin Finder feature.  It is basically Union based SQL injection tool.
+Admin Finder deals with automated login into vulnerable websites.  It has inbuilt google dorks features and  provide full automatic support.
+
+SQL-I AUTO Features includes 
+$ Identify the vulnerable parameters.
+$ Identify which SQL injection techniques can be used to exploit the vulnerable parameters.
+$ Changing themes . 
+$ Providing IP hiding facilities over the network.
+$ Admin Finder 
